@@ -1,0 +1,44 @@
+/* CSS for the table */
+.table {
+    width: 97%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    margin-left: 20px;
+  }
+  
+  /* Table header */
+  .table thead th {
+    background-color: #212c42;
+    border-bottom: 1px solid black;
+    padding: 12px 12px;
+    text-align: left;
+    font-weight: bold;
+    font-size: 17px;
+  }
+  
+  /* Table body */
+  .table tbody td {
+    padding: 12px;
+    border-bottom: 2px solid black;
+  }
+  
+  /* Table alternate row color */
+  .table tbody tr:nth-child(even) {
+    background-color: #212c42;
+  }
+  
+  /* Styling for images within cells */
+  .table td img {
+    max-width: 100px;
+    height: auto;
+  }
+  
+  /* Styling for table headings */
+  h2 {
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  /* Add additional CSS styles as needed to match your desired design */
+  

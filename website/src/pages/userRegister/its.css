@@ -1,0 +1,31 @@
+.file-input-label1 {
+    display: block;
+    margin-bottom: 10px;
+    color: #ffffff;
+    font-weight: bold;
+  }
+  
+  .file-input1 {
+    display: none;
+  }
+  
+  .upload-button1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #212c42;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .upload-button1:hover {
+    background-color: #212c42;
+  }
+  
+  .upload-icon1 {
+    color: white;
+    font-size: 24px;
+  }
