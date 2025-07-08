@@ -1,6 +1,7 @@
 # Car recovR
 
 Car recovR is a web-based car recovery portal designed to streamline the process of recovering stolen vehicles using Automatic Number Plate Recognition (ANPR) and surveillance technology. Built as a Final Year Project (FYP) at the National University of Computer and Emerging Sciences (NUCES), Karachi, this project leverages the FARM stack (FastAPI, React, MongoDB) to provide a secure and efficient platform for car owners and administrators to manage vehicle registration and theft complaints.
+
 ![](https://github.com/MuhammadEahtesham/CarrecovR-FYP/blob/main/img.jpg)
 
 ## Table of Contents
