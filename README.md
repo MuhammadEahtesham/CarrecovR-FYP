@@ -144,7 +144,7 @@ Follow these steps to set up the Car recovR project locally:
 
 ## Contributing
 
-We welcome contributions to enhance Car recovR! To contribute:
+We welcome contributions to enhance Car recovR! to contribute:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/your-feature`).
