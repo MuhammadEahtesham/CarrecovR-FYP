@@ -158,9 +158,6 @@ Please ensure your code follows the project’s coding standards and includes re
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-
-- Our team members, **Uzair Khan**, **Muhammad Eahtesham**, and **Muhammad Hassaan Ahsan Qureshi**, for their dedication and collaborative efforts.
 
 ---
 
